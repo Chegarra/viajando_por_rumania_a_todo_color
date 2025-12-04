@@ -1,7 +1,7 @@
 [project]
-name = "busquedas"
+name = "viajando_por_rumania_a_todo_color"
 version = "0.1.0"
-description = ""
+description = "Calcula la ruta más corta entre dos nodos usando Dijkstra."
 authors = [
     {name = "Chema Segarra",email = "chegarra@outlook.com"}
 ]
@@ -11,8 +11,8 @@ dependencies = [
 ]
 
 [tool.poetry]
-packages = [{include = "busquedas", from = "src"}]
-
+package-mode = false
+s
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
 build-backend = "poetry.core.masonry.api"

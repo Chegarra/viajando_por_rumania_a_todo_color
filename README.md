@@ -21,7 +21,7 @@ Sigue estos pasos para poner en marcha el proyecto en tu máquina local.
 ### 1. Clonar el repositorio
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone git@github.com:Chegarra/viajando_por_rumania_a_todo_color.git
 cd viajando_por_rumania_a_todo_color
 ```
 
